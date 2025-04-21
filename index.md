@@ -3,23 +3,20 @@
 layout: home
 
 hero:
-  name: "Mojuru"
-  text: "site for Mojuru app"
-  tagline: My great project tagline
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: Mojuru
+  text: Stream your personal content effortlessly
+  tagline: Personalized streaming, enhanced by an intuitive UI and smooth performance — all in one iOS app.
+  image:
+    src: /images/phone-left.png
+    alt: logo
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+  - title: Effortless streaming
+    details: Stream your content easily, expand your sources through customizable plugins, and keep track of your watch history with Anilist integration.
 
+  - title: Breathtaking UI
+    details: Enjoy a stunning, fully animated UI that brings your viewing experience to life with smooth transitions and dynamic effects.
+
+  - title: Stay updated through Discord
+    details: Join our Discord to be the first to know about release dates and development progress.
+---

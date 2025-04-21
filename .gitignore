@@ -3,3 +3,5 @@ yarn.lock
 
 .vitepress/dist
 .vitepress/cache
+# Local Netlify folder
+.netlify

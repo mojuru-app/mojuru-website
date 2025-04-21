@@ -1,0 +1,43 @@
+:root {
+  --color-primary: #6ad478;
+  --color-primary-alt: #43874c;
+  /* --color-primary-a: rgba(105, 211, 119, 0.35); */
+  --color-primary-a: rgba(105, 211, 119, 0.60);
+  --color-support: #d96b98;
+  --color-success: #6ad478;
+  --color-alert: #eb483d;
+  --color-idle: #e5a04a;
+  --color-background-alt: #0d0f14;
+  --color-background: #12151b;
+  --color-foreground: #1c2028;
+  --color-mist: #2a2f3a;
+
+  /* not faded */
+  --vp-c-brand-1: var(--color-primary);
+  --vp-c-brand-2: var(--color-primary);
+  --vp-c-brand-3: var(--color-primary);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, var(--color-primary-a));
+  --vp-home-hero-image-filter: blur(72px);
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(270deg, var(--color-primary) 30%, var(--color-primary-alt));
+}
+
+.VPNavBarAppearance,
+.VPNavScreenAppearance,
+.VPMenu > .group:first-child {
+  display: none !important;
+}
+
+.dark {
+  --vp-c-default-1: var(--color-mist);
+  --vp-c-default-2: var(--color-mist);
+  --vp-c-default-3: var(--color-mist);
+  --vp-c-default-soft: var(--color-mist);
+
+  --vp-c-bg: var(--color-background);
+  --vp-c-bg-soft: var(--color-foreground);
+  --vp-c-bg-alt: var(--color-background-alt);
+
+  --vp-c-text: #ffffff;
+}
