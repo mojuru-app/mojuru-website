@@ -1,0 +1,16 @@
+{
+  "name": "mojuru-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "aleganza <ganzarolli.alessio@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
