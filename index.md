@@ -7,7 +7,7 @@ hero:
   text: Stream your personal content effortlessly
   tagline: Personalized streaming, enhanced by an intuitive UI and smooth performance — all in one iOS app.
   image:
-    src: /images/phone-left.png
+    src: /images/phone-left.webp
     alt: logo
 
 features:
