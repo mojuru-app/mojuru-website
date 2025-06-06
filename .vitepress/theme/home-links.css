@@ -1,0 +1,71 @@
+/* Style to get the cheat sheet link in the home page */
+
+a.cta {
+  text-align: center;
+  border-radius: 8px;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+}
+
+a.cta:hover {
+  border-color: var(--vp-c-brand);
+  background-color: var(--c-bg-accent);
+}
+
+a.cta.mojuru-plus {
+  height: 100%;
+  line-height: 100%;
+  display: flex;
+  justify-content: center;
+  white-space: pre;
+  min-height: 41px;
+  position: relative;
+  background-color: transparent;
+}
+
+a.cta.mojuru-plus::before {
+  content: '';
+  width: 24px;
+  height: 100%;
+  margin-right: 6px;
+  display: inline-block;
+  background-image: url('/public/logo.png');
+  background-size: 24px;
+  background-repeat: no-repeat;
+  vertical-align: bottom;
+  line-height: normal;
+  transform: translateY(10.5px);
+}
+
+a.cta.mojuru-plus:hover::after {
+  animation: none;
+}
+
+a.cta.mojuru-plus {
+  transform: scale(1);
+}
+
+a.cta.mojuru-plus:active {
+  transform: scale(0.9);
+}
+
+a.cta.mojuru-plus::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px solid var(--vp-c-brand-1);
+  border-radius: 20px;
+  animation: ping 3s cubic-bezier(0, 0, 0.2, 1) infinite;
+  z-index: -1;
+}
+
+@keyframes ping {
+  15%,
+  to {
+    transform: scale(1.25, 2);
+    opacity: 0;
+  }
+}

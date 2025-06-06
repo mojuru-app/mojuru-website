@@ -12,10 +12,18 @@
   --color-foreground: #1c2028;
   --color-mist: #2a2f3a;
 
+  --icon-tracking: #6a87d4;
+  --icon-plugins: #6ac4d4;
+  --icon-customization: #d46ad4;
+  --icon-subtitle: #d4b46a;
+  --icon-auto-skip: #d46a6a;
+  --icon-smooth: #6ad4a6;
+
   /* not faded */
   --vp-c-brand-1: var(--color-primary);
   --vp-c-brand-2: var(--color-primary);
   --vp-c-brand-3: var(--color-primary);
+
 
   --vp-home-hero-image-background-image: linear-gradient(-45deg, var(--color-primary-a));
   --vp-home-hero-image-filter: blur(72px);
@@ -23,9 +31,13 @@
   --vp-home-hero-name-background: -webkit-linear-gradient(270deg, var(--color-primary) 30%, var(--color-primary-alt));
 }
 
+.VPButton.brand {
+  color: black !important;
+}
+
 .VPNavBarAppearance,
 .VPNavScreenAppearance,
-.VPMenu > .group:first-child {
+.VPMenu>.group:first-child {
   display: none !important;
 }
 
