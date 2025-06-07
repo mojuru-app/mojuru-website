@@ -12,17 +12,17 @@ hero:
     alt: logo
   actions:
     - text: Get Started
-      link: "/docs/introduction"
+      link: "/docs/introduction/"
       theme: brand
     - text: Download
-      link: "/docs/download"
+      link: "/docs/download/"
       theme: alt
     - text: Join Us
-      link: "/go/discord"
+      link: "https://www.mojuru.app/go/discord/"
       theme: cta discord
     - theme: cta mojuru-plus
       text: "Get Mojuru+"
-      link: /docs/mojuru-plus
+      link: /docs/mojuru-plus/
 
 features:
   - title: Tracking
