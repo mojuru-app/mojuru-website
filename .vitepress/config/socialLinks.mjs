@@ -1,10 +1,10 @@
 export default [
   {
     icon: "github",
-    link: "https://github.com/mojuru-app/mojuru",
+    link: "/go/mojuru-repo",
   },
   {
     icon: "discord",
-    link: "https://discord.gg/vv5nhvhqQD",
+    link: "/go/discord",
   },
 ];

@@ -17,6 +17,9 @@ hero:
     - text: Download
       link: "/docs/download"
       theme: alt
+    - text: Join Us
+      link: "/go/discord"
+      theme: cta discord
     - theme: cta mojuru-plus
       text: "Get Mojuru+"
       link: /docs/mojuru-plus

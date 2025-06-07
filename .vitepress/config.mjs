@@ -10,7 +10,7 @@ export default defineConfig({
   description: "Effortless streaming, right on your iOS device.",
   head,
   themeConfig: {
-    logo: "/logo.png",
+    logo: "/logo.webp",
 
     appearance: "force-dark",
 
