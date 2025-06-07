@@ -8,10 +8,8 @@ import head from "./config/head.mjs";
 export default defineConfig({
   title: "Mojuru",
   description: "Effortless streaming, right on your iOS device.",
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head,
   themeConfig: {
-    head,
-
     logo: "/logo.png",
 
     appearance: "force-dark",
