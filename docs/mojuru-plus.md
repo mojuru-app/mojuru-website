@@ -1,3 +1,3 @@
-# Mojuru+
+# Mojuru Plus
 
 More information soon

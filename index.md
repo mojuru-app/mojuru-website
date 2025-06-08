@@ -1,5 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+
 layout: home
 title: Home
 
@@ -21,10 +22,14 @@ hero:
       link: "https://www.mojuru.app/go/discord/"
       theme: cta discord
     - theme: cta mojuru-plus
-      text: "Get Mojuru+"
+      text: "Get Mojuru Plus"
       link: /coming-soon/
 
 features:
+  - title: 2 Weeks of Mojuru Plus at Launch!
+    details: Supporter perks available to all users for the first two weeks after launch.
+    link: /coming-soon/
+
   - title: Tracking
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="var(--icon-tracking)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-cloud-upload-icon lucide-cloud-upload"><path d="M12 13v8"/><path d="M4 14.899A7 7 0 1 1 15.71 8h1.79a4.5 4.5 0 0 1 2.5 8.242"/><path d="m8 17 4-4 4 4"/></svg>
     details: Keep your watch history and progress synced seamlessly with AniList.

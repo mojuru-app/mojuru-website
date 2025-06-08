@@ -1,4 +1,4 @@
-/* Style to get the cheat sheet link in the home page */
+/* links */
 
 a.cta {
   text-align: center;
@@ -86,4 +86,22 @@ a.cta.mojuru-plus::after {
     transform: scale(1.25, 2);
     opacity: 0;
   }
+}
+
+/* features */
+.items .item:first-child {
+  width: 100%;
+  overflow: hidden;
+}
+
+.items .item:first-child article.box {
+  background-color: var(--primary);
+  text-align: center;
+  color: #FFD166 ;
+
+}
+
+.items .item:first-child article.box h2 {
+  font-size: 24px;
+  font-weight: 800;
 }

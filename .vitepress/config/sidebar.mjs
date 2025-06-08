@@ -4,7 +4,7 @@ export default {
       text: "",
       items: [
         { text: "What is Mojuru?", link: "/docs/introduction" },
-        { text: "Mojuru+", link: "/docs/mojuru-plus" },
+        { text: "Mojuru Plus", link: "/docs/mojuru-plus" },
         { text: "Download", link: "/docs/download" },
         { text: "Changelogs", link: "/docs/changelogs" },
       ],
