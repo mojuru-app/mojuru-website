@@ -45,12 +45,12 @@ a.cta::before {
 }
 
 a.cta.mojuru-plus::before {
-  background-image: url('/public/logo.webp');
+  background-image: url('/logo.webp');
   transform: translateY(8px);
 }
 
 a.cta.discord::before {
-  background-image: url('/public/discord-logo.webp');
+  background-image: url('/discord-logo.webp');
   transform: translate(-1px, -7.5px);
 }
 
