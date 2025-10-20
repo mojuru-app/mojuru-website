@@ -1,8 +1,9 @@
-/go/discord           https://discord.gg/vv5nhvhqQD                       301
-/go/mojuru-repo       https://github.com/mojuru-app/mojuru                301
-/go/mojuru-plus       /docs/mojuru-plus/                                  301
-/go/plugins-help      /help/plugins-help/                                 301
-/go/help              /help/                                              301
-/go/report-issue      https://github.com/mojuru-app/mojuru/issues/new     301
-/go/terms             /terms/                                             301
-/go/privacy-policy    /privacy-policy/                                    301
+/go/discord                   https://discord.gg/vv5nhvhqQD                                                          301
+/go/mojuru-repo               https://github.com/mojuru-app/mojuru                                                   301
+/go/mojuru-plus               /docs/mojuru-plus/                                                                     301
+/go/plugins-help              /help/plugins-help/                                                                    301
+/go/help                      /help/                                                                                 301
+/go/report-issue              https://github.com/mojuru-app/mojuru/issues/new                                        301
+/go/plugin-repo-blacklist     https://raw.githubusercontent.com/mojuru-app/plugin-repo-blacklist/main/list.json      301
+/go/terms                     /terms/                                                                                301
+/go/privacy-policy            /privacy-policy/                                                                       301
