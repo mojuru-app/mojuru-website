@@ -10,7 +10,7 @@
     "dev": "vitepress dev",
     "build": "vitepress build",
     "deploy": "netlify deploy --prod",
-    "ship": "pnpm build && pnpm deploy",
+    "ship": "pnpm run build && pnpm run deploy",
     "preview": "vitepress preview"
   },
   "devDependencies": {
