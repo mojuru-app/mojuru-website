@@ -6,17 +6,12 @@
   "author": "aleganza <ganzarolli.alessio@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "netlify": "netlify",
     "dev": "vitepress dev",
     "build": "vitepress build",
-    "deploy": "netlify deploy --prod",
     "ship": "pnpm run build && pnpm run deploy",
     "preview": "vitepress preview"
   },
   "devDependencies": {
     "vitepress": "^1.6.3"
-  },
-  "dependencies": {
-    "netlify-cli": "^20.0.2"
   }
 }
