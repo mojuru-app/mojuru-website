@@ -14,6 +14,8 @@ export default defineConfig({
 
     appearance: "force-dark",
 
+    themeSwitch: true,
+
     socialLinks,
 
     nav,

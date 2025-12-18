@@ -1,4 +1,3 @@
-// export default [{ text: "Docs", link: "/docs/" }];
-
-export default [{ text: "Docs", link: "/coming-soon/" }];
-
+export default [
+  { text: "Docs", link: "/docs/guides/getting-started", activeMatch: "/docs/" },
+];

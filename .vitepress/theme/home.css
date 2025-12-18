@@ -89,7 +89,7 @@ a.cta.mojuru-plus::after {
 }
 
 /* features */
-.items .item:first-child {
+/* .items .item:first-child {
   width: 100%;
   overflow: hidden;
 }
@@ -104,4 +104,4 @@ a.cta.mojuru-plus::after {
 .items .item:first-child article.box h2 {
   font-size: 24px;
   font-weight: 800;
-}
+} */
