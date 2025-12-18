@@ -1,5 +1,5 @@
 ---
-title: Plugins
+title: Plugins Guide
 titleTemplate: Guides
 description: Guide to creating and managing plugins in Mojuru.
 ---
