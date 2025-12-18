@@ -11,7 +11,7 @@ Essential information to help you get started with **Mojuru**.
 ## Download
 
 Before using Mojuru, you need to **download and install the app**.  
-You can find all available installation methods on the [Download page](/docs/download/).  
+You can find all available installation methods on the [Download page](/docs/download).  
 
 Once Mojuru is installed on your device, you can proceed with the following steps.
 
@@ -39,4 +39,4 @@ The developer does **not provide official plugins**.
 You can explore the **settings** to customize your Mojuru experience.  
 
 Various customizations, such as **theme changes** or **icon changes**, are **locked** until you unlock **Mojuru Plus**.  
-For more information, see [Mojuru Plus](/docs/mojuru-plus/).
+For more information, see [Mojuru Plus](/docs/mojuru-plus).
