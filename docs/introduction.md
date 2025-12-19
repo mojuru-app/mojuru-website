@@ -43,7 +43,7 @@ Some personalization features are **unlocked with Mojuru Plus**.
 
 ## Mojuru Plus
 
-**Mojuru Plus** is the special edition of the app, unlockable via donation.  
+**Mojuru Plus** is the special edition of the app, unlockable via a tip.  
 It provides perks such as:
 
 - Theme customization  
