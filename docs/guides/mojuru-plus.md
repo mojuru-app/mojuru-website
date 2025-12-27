@@ -15,7 +15,7 @@ This guide explains how to **unlock Mojuru Plus** after leaving a tip.
 
 To activate Mojuru Plus, you need:
 
-- A **tip** via our [Ko-fi page](https//www.mojuru.app/go/kofi)
+- A **tip** via our [Ko-fi page](https://www.mojuru.app/go/kofi)
 - An **AniList account**
 
 ## How to unlock Mojuru Plus
