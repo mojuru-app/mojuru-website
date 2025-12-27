@@ -25,7 +25,7 @@ Your contribution ensures that Mojuru can continue to operate smoothly for all u
 
 - **One-time tip**: Mojuru Plus is unlocked permanently after a single tip—no recurring payments required.  
 - **Flexible amount**: You can tip **any amount**, starting from the minimum visible on our Ko-fi page.  
-- **Ko-fi page for tips**: [Leave a tip here](https://ko-fi.com/aleganza)
+- **Ko-fi page for tips**: [Leave a tip here](https//www.mojuru.app/go/kofi)
 
 ## Perks for Tippers
 

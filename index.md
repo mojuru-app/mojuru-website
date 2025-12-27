@@ -19,7 +19,7 @@ hero:
       link: /docs/download/
       theme: alt
     - text: Join Us
-      link: "https://www.mojuru.app/go/discord/"
+      link: https://www.mojuru.app/go/discord
       theme: cta discord
     - theme: cta mojuru-plus
       text: "Get Mojuru Plus"
