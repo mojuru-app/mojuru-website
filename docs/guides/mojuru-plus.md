@@ -8,9 +8,6 @@ description: Step-by-step instructions to unlock Mojuru Plus.
 
 This guide explains how to **unlock Mojuru Plus** after leaving a tip.
 
-> [!IMPORTANT] Announcement
-> In celebration of the app release, **Mojuru Plus is temporarily available for all users!**
-
 ## Requirements
 
 To activate Mojuru Plus, you need:
